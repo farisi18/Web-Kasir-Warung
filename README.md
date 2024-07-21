@@ -6,3 +6,8 @@ Web Kasir dengan beberapa fitur:
 - cetak invoice belanja
 - profit bersih dan omset
 - produk terjual
+
+
+![Deskripsi Gambar](url-gambar)
+![Deskripsi Gambar](url-gambar)
+![Deskripsi Gambar](url-gambar)
