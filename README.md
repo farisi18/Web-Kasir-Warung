@@ -1,7 +1,8 @@
 # Web Kasir Untuk UMKM
 
 Web Kasir dengan beberapa fitur:
-- save member
+- input member langganan
 - cetak laporan
 - cetak invoice belanja
-  
+- profit bersih dan omset
+- produk terjual
