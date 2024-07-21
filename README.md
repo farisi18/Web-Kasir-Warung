@@ -9,5 +9,5 @@ Web Kasir dengan beberapa fitur:
 
 
 - ![Login](warung.png)
-- ![Tampilan_Kasir](warung1.png)
+- ![Tampilan_Kasir](warung2.png)
 - ![Kategori](warung3.png)
