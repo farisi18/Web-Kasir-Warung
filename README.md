@@ -8,6 +8,6 @@ Web Kasir dengan beberapa fitur:
 - produk terjual
 
 
-![Deskripsi Gambar](url-gambar)
-![Deskripsi Gambar](url-gambar)
-![Deskripsi Gambar](url-gambar)
+- ![Login](warung.png)
+- ![Kasir](warung1.png)
+- ![Kategori](warung3.png)
